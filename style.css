@@ -28,3 +28,6 @@ input:focus{
 .two {
     margin-top: 150px;
 }
+ul li i {
+    font-size: 20px;
+}
