@@ -22,9 +22,9 @@ input:focus{
  form button i {
      font-size: 30px;    
  }
-.form-container {
+.one {
     height: 500px;
 }
-.form-container .text-center {
+.two {
     margin-top: 150px;
 }
